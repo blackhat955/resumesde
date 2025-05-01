@@ -1,0 +1,137 @@
+{
+  "basics": {
+    "name": "Durgesh Tiwari",
+    "title": "Software Engineer",
+    "summary": "Software engineer with experience in full-stack development, microservices architecture, and cloud platforms.",
+    "email": "durgeshse98@gmail.com",
+    "phone": "(812)-778-5427",
+    "location": "Bloomington, IN, USA",
+    "website": "https://blackhat955.github.io/portfolio/",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://linkedin.com/in/durgesh98"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/blackhat955"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Object-Oriented Software Design, Teaching Assistance",
+      "position": "Teaching Assistant",
+      "website": "",
+      "startDate": "2024-08",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Guided 200+ students in full-stack projects using Java, RabbitMQ, Spring Boot, Docker, and cloud platforms",
+        "Directed cross-functional collaborations during sprint cycles, resulting in improved communication flow between diverse technical teams while achieving completion rates above 90% for assigned tasks each term."
+      ]
+    },
+    {
+      "company": "Programmers Army",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2022-10",
+      "endDate": "2023-07",
+      "summary": "",
+      "highlights": [
+        "Improved API response time by 25% by migrating from a PHP monolithic system to a microservices architecture using Node.js and Express.js, optimizing service communication and scalability under high-traffic conditions.",
+        "Architected an API gateway in Node.js within Next.js server middleware to route frontend requests to the appropriate microservices, reducing latency and enhancing security, improving API efficiency by 20%.",
+        "Automated the CI/CD pipeline for the user authentication service using Jenkins and Docker, standardizing the deployment process. This automation reduced deployment times by 10% and ensured smooth and consistent rollouts of updates.",
+        "Deployed the Node.js application on AWS (Amazon Web Services), leveraging EC2 for scalable and reliable user access."
+      ]
+    },
+    {
+      "company": "ByteLearn",
+      "position": "Software Engineer Intern",
+      "website": "",
+      "startDate": "2022-06",
+      "endDate": "2022-09",
+      "summary": "",
+      "highlights": [
+        "Implemented a microservices system with Spring Boot, improving data accessibility by 32% by efficiently sending data packets to an analytics API using RabbitMQ.",
+        "Utilized SpringCloud and MyBatis Plus to develop microservices, enabling seamless integration of various modules such as product, order, and inventory management",
+        "Developed full-stack projects, designing RESTful microservices and APIs with Spring Boot and enabling seamless microservice communication via Spring OpenFeign.",
+        "Enhanced system throughput by 25% during peak traffic by implementing token bucket rate limiting and optimizing Redis cache-hit ratios, reducing database load and improving performance under high concurrency."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indiana University Bloomington",
+      "area": "Data Science",
+      "studyType": "Master of Science",
+      "startDate": "2023-08",
+      "endDate": "2025-05",
+      "gpa": "3.62/4"
+    },
+    {
+      "institution": "University Of Mumbai",
+      "area": "Information Technology",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2018-08",
+      "endDate": "2022-05",
+      "gpa": "9.3/10"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["C++", "TypeScript", "Python", "Java", "Go", "Kotlin"]
+    },
+    {
+      "name": "Databases",
+      "keywords": ["SQL", "MySQL", "PostgreSQL", "MongoDB", "DynamoDB"]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "keywords": ["Angular", "Node.js", "Express.js", "Jest", "React.js (with Redux)", "Bootstrap", "Socket.io", "Spring Boot", "Hibernate"]
+    },
+    {
+      "name": "Tools & Technologies",
+      "keywords": ["Git", "RabbitMQ", "Docker", "Kubernetes", "AWS (S3, CloudFront, SQS, CloudWatch, EC2, Lambda, RDS)", "Selenium"]
+    },
+    {
+      "name": "Additional Skills",
+      "keywords": ["Agile Development Methodology", "REST APIs Design", "Code Reviews", "Object-Oriented Design", "Test-Driven Development (TDD)"]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "ACM ICPC Regionalist 2020"
+    }
+  ],
+  "projects": [
+    {
+      "name": "CredEase – Intelligent Credit Management Tool",
+      "description": "",
+      "highlights": [
+        "Built a full-stack credit card payment system using React with TypeScript and Spring Boot to manage individual and consolidated payments",
+        "Implemented token-based security with JWT (JSON Web Token) in a restful api using Spring Security, enhancing user data protection and session management",
+        "Built a CI/CD pipeline with Jenkins and Docker, cutting deployment time by 10% and ensuring reliable releases"
+      ]
+    },
+    {
+      "name": "Wellness Tracking System",
+      "description": "",
+      "highlights": [
+        "Developed a Health Monitoring System using Spring Boot, React with Typescript, AWS, and Docker, enabling users to track daily health, access professional services, and view health-related videos",
+        "Reduced video fetch time by 30% (latency <24 ms) and costs by 50%, utilizing CloudFront for storage and MongoDB for URL retrieval, enhancing GET request efficiency",
+        "Managed project tasks with Jira, version control with Git, and deployed on the Render platform using GitHub CI/CD pipeline"
+      ]
+    },
+    {
+      "name": "Multi-User Authentication",
+      "description": "",
+      "highlights": [
+        "Created an NPM package using Node.js, Express.js, and JWT tokens, resulting in a 20% reduction in project development time specifically allocated to the authentication code",
+        "Integrated JWT token and OAuth security in the NPM package, yielding a 5% improvement in overall security",
+        "Implemented RBAC using JWT tokens, enhancing user permissions and reducing unauthorized access by 30%, improving security across roles"
+      ]
+    }
+  ]
+}

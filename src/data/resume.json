@@ -32,18 +32,16 @@
       ]
     },
     {
-      "company": "Programmers Army",
-      "position": "Software Engineer",
-      "website": "",
-      "startDate": "2022-10",
-      "endDate": "2023-07",
-      "summary": "",
-      "highlights": [
-        "Improved API response time by 25% by migrating from a PHP monolithic system to a microservices architecture using Node.js and Express.js, optimizing service communication and scalability under high-traffic conditions.",
-        "Architected an API gateway in Node.js within Next.js server middleware to route frontend requests to the appropriate microservices, reducing latency and enhancing security, improving API efficiency by 20%.",
-        "Automated the CI/CD pipeline for the user authentication service using Jenkins and Docker, standardizing the deployment process. This automation reduced deployment times by 10% and ensured smooth and consistent rollouts of updates.",
-        "Deployed the Node.js application on AWS (Amazon Web Services), leveraging EC2 for scalable and reliable user access."
-      ]
+        "company": "Programmers Army",
+        "position": "Software Engineer",
+        "startDate": "2022-10",
+        "endDate": "2023-07",
+        "highlights": [
+            "Improved API response time by 25% by migrating from a PHP monolithic system to a microservices architecture using Spring Boot, optimizing service communication and scalability under high-traffic conditions.",
+            "Designed and implemented a centralized API gateway using Spring Cloud Gateway, improving latency and security and boosting API throughput by 20%",
+            "Automated the CI/CD pipeline using Jenkins and Docker, cutting deployment time by 10% and ensuring consistent rollouts",
+            "Deployed Spring Boot apps in Docker containers on AWS EC2, improving reliability and scalability with health checks and auto-restarts"
+        ]
     },
     {
       "company": "ByteLearn",
